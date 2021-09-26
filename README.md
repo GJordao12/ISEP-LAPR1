@@ -1,4 +1,4 @@
-# ISEP - LAPR1 (1º ANO - 1º SEMESTRE)
-* Linguagem: Java, HTML e CSS
-* Projetos e Trabalhos de LAPR1 da Universidade
-* Ano: 2019
+# ISEP - LAPR1 (1º YEAR - 1º SEMESTER)
+* Language: Java, HTML and CSS
+* University LAPR1 Projects and Works
+* Year: 2019
